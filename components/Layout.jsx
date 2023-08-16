@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
       </header>
       <main className="main-container">
         {children}
-      <a href="https://api.whatsapp.com/send?phone=51926585479&text=Hola, me gustaria Obtener más información acerca de los productos..."
+      <a href="https://api.whatsapp.com/send?phone=51989447785&text=Hola, me gustaria Obtener más información acerca de los productos..."
       className="float pulse"
       target="_blank"
       >
